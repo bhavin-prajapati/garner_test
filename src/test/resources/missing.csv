@@ -1,0 +1,21 @@
+id,description,weight,unit,priority
+,cement,15.5,ton,1
+5,fuel,40000,kg,2
+,drill bits,17000,lbs,
+135,,17000,kg,1
+8,fuel,,kg,
+89,,8,ton,3
+47,,22,ton,
+24,,10.5,ton,2
+29,steel bars,,kg,
+68,cement,,lbs,2
+51,wet bulk freight,42.28,ton,3
+76,fuel,23455,kg,2
+14,,14000,kg,
+6,fuel,,kg,2
+64,steel bars,,lbs,1
+1832,cement,24000,kg,1
+826,prill,,kg,1
+41,fuel,23.6,ton,3
+3827,cement,,kg,2
+495,,8900,kg,3
